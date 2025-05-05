@@ -7,6 +7,9 @@ This repository contains a Jupyter notebook that develops and evaluates machine 
 ## Objective
 To tackle imbalanced classification in fake job detection dataset using various resampling techniques and model evaluations.
 
+
+<img src='https://github.com/MusadiqPasha/Imbalance-Learning/blob/main/dist.png'>
+
 ## Dataset Summary
 - **Rows**: ~17,880
 - **Columns**: 17
